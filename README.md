@@ -5,6 +5,7 @@ Dodge censorship!! - your words, your way!
 (Will update readme soon, under construction!)
 
 [![GitHub all releases](https://img.shields.io/github/downloads/anonfaded/fadeboard/total?label=Downloads&logo=github)](https://github.com/anonfaded/fadeboard/releases/)
+
 </div>
 
 ## ⬇️ Download
