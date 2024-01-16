@@ -1,6 +1,6 @@
 <div align="center">
 
-# Fadeboard
+# FadeBoard
 Dodge censorship!! - your words, your way! 
 (Will update readme soon, under construction!)
 
