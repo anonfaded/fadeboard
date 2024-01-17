@@ -1,8 +1,7 @@
 <div align="center">
 
 # FadeBoard
-Dodge censorship!! - your words, your way!
-<br>
+
 **An Android keyboard designed to transform simple text into special characters to fade away the restriction filters.**
 
 > To access the CLI(terminal) version for windows/ios/linux, visit the repository [Fade-it](https://github.com/anonfaded/fade-it).
