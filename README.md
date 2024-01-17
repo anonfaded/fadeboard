@@ -10,6 +10,9 @@ Dodge censorship!! - your words, your way!
 
 ---
 
+## 📱 Screenshot
+<img src="/images/1.jpg" style=" border-radius=10px; " >
+
 ## ⬇️ Download
 
 Download the apk file from the [releases](https://github.com/anonfaded/fadeboard/releases/tag/v2.0).
