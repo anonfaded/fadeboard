@@ -5,7 +5,7 @@ Dodge censorship!! - your words, your way!
 <br>
 **An Android keyboard designed to transform simple text into special characters to fade away the restriction filters.**
 
-For the CLI(terminal) version for windows/ios/linux, check the repo [Fade-it](https://github.com/anonfaded/fade-it)
+_For the CLI(terminal) version for windows/ios/linux, check the repo [Fade-it](https://github.com/anonfaded/fade-it)_
 
 [![GitHub all releases](https://img.shields.io/github/downloads/anonfaded/fadeboard/total?label=Downloads&logo=github)](https://github.com/anonfaded/fadeboard/releases/)
 
@@ -54,7 +54,7 @@ Whenever you face the fem!n!sts you will must need this board lol.
 **Strong Passwords**
 - This will be your personal password manager type of keyboard which will auto make strong passwords while you remember the simple english, for example if we have a password `thisismysecretpassword`, you type and remember the same but in output it will become `th!$!$my$3cr3tpa$$w0rd`, see the magic🎩. Also not everyone will be having this keyboard so if someone knows or heard your password, they won't remember the complex password.
 
-Well you can share more ideas of where else it can be used, join our [Telegram Group](https://t.me/cyberhood)
+Well you can share more ideas of where else it can be used, join our [Telegram Group](https://t.me/cyberhood).
 
 
 
