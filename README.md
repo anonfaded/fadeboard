@@ -11,7 +11,7 @@ Dodge censorship!! - your words, your way!
 ---
 
 ## 📱 Screenshot
-<img src="/images/1.jpg" style=" border-radius=10px; " >
+<img src="/images/1.jpg" style="width: auto; height: 300px;" >
 
 ## ⬇️ Download
 
