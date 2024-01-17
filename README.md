@@ -60,5 +60,6 @@ Well you can share more ideas of where else it can be used, join our [Telegram G
 ## 🤝 Contributing
 
 Contributions and suggestions are welcomed!
+
 If you're a developer looking to contribute and enhance the project, there aren't many requirements, just fork and git clone the repo to your local machine, make separate branch like `feature\new-feature` and open a pull request so we can add it.
 
