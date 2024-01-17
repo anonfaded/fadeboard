@@ -31,6 +31,7 @@ Right now there isn't any launcher so you won't see any icon of the app on your 
 <div align="center">
 <img src="/images/2.jpg" style="width: 300px; height: auto;" >
 </div>
+
 3. Go to `Keyboard list and default`. 
 4. You will see `FadeBoard`, enable that and now you can switch to this and the default keyboard anytime from the switch keyboard button.
 
