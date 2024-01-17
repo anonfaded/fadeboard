@@ -5,7 +5,7 @@ Dodge censorship!! - your words, your way!
 <br>
 **An Android keyboard designed to transform simple text into special characters to fade away the restriction filters.**
 
-> For the CLI(terminal) version for windows/ios/linux, you can check the repo [Fade-it](https://github.com/anonfaded/fade-it).
+> To access the CLI(terminal) version for windows/ios/linux, visit the repository [Fade-it](https://github.com/anonfaded/fade-it).
 
 [![GitHub all releases](https://img.shields.io/github/downloads/anonfaded/fadeboard/total?label=Downloads&logo=github)](https://github.com/anonfaded/fadeboard/releases/)
 
@@ -21,11 +21,11 @@ Dodge censorship!! - your words, your way!
 
 ## ⬇️ Download
 
-Download the apk file from the [releases](https://github.com/anonfaded/fadeboard/releases/tag/v2.0).
+Download the APK file from the [releases page](https://github.com/anonfaded/fadeboard/releases/tag/v2.0).
 
 ## ⏬ Install
 
-Right now there isn't any launcher so you won't see any icon of the app on your homescreen, you just need to enable the keyboard from the `keyboard settings` of your device. The process is same for all android devices, titles or locations might vary.
+Currently there is no launcher so you won't see any icon of the app on your homescreen, you just need to enable the keyboard from the `keyboard settings` of your device. The process is same for all android devices, titles or locations might vary.
 
 1. Open the `settings` of your device.
 2. Go to `Language and keyboard`.
@@ -44,7 +44,7 @@ Right now there isn't any launcher so you won't see any icon of the app on your 
 
 ## ❓ Use cases 
 
-You might be wondering the purpose of this weird keyboard?
+You might be wondering about the purpose of this unique keyboard?
 Well its very handy in:
 
 **Commenting**
@@ -61,5 +61,5 @@ Well you can share more ideas of where else it can be used, join our [Telegram G
 ## 🤝 Contributing
 
 Contributions and suggestions are welcomed!
-For developers who want to make it better, there aren't  much requirements, just fork and git clone the repo to your local machine, make separate branch like `feature\new-feature` and open a pull request so we can add it.
+If you're a developer looking to contribute and enhance the project, there aren't many requirements, just fork and git clone the repo to your local machine, make separate branch like `feature\new-feature` and open a pull request so we can add it.
 
